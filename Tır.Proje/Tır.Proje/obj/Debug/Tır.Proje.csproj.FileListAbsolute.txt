@@ -1,0 +1,13 @@
+C:\C# Form belgeler\Tır.Proje\Tır.Proje\bin\Debug\Tır.Proje.exe.config
+C:\C# Form belgeler\Tır.Proje\Tır.Proje\bin\Debug\Tır.Proje.exe
+C:\C# Form belgeler\Tır.Proje\Tır.Proje\bin\Debug\Tır.Proje.pdb
+C:\C# Form belgeler\Tır.Proje\Tır.Proje\obj\Debug\Tır.Proje.csproj.AssemblyReference.cache
+C:\C# Form belgeler\Tır.Proje\Tır.Proje\obj\Debug\Tır.Proje.Form1.resources
+C:\C# Form belgeler\Tır.Proje\Tır.Proje\obj\Debug\Tır.Proje.Properties.Resources.resources
+C:\C# Form belgeler\Tır.Proje\Tır.Proje\obj\Debug\Tır.Proje.csproj.GenerateResource.cache
+C:\C# Form belgeler\Tır.Proje\Tır.Proje\obj\Debug\Tır.Proje.csproj.CoreCompileInputs.cache
+C:\C# Form belgeler\Tır.Proje\Tır.Proje\obj\Debug\Tır.Proje.exe
+C:\C# Form belgeler\Tır.Proje\Tır.Proje\obj\Debug\Tır.Proje.pdb
+C:\C# Form belgeler\Tır.Proje\Tır.Proje\obj\Debug\Tır.Proje.Form2.resources
+C:\C# Form belgeler\Tır.Proje\Tır.Proje\obj\Debug\Tır.Proje.Form3.resources
+C:\C# Form belgeler\Tır.Proje\Tır.Proje\obj\Debug\Tır.Proje.Form4.resources
